@@ -1,0 +1,24 @@
+test16:
+root:251b09c8c6f9d0e36238d39b087c06d669113d42fd6b65fce7f6331c0a5f5efa
+ipfsaddress:Qma4j56GHhzkax7GBTCTXuN5nMeAmaLau3No6hzTeKeWhG
+
+deployStorage():
+transaction hash:  0x87874a5db56cc575242b6433602d58664b45148f9bd0d02d777cab202a1672cf
+Contract successfully deployed at:  0x6fc3641e8201c9c18a2ca571f41593f6ae04657d
+storeAddress():
+Address successfully stored. Transaction hash: 0x5e013205c7063fc5ca58bdf6da04b8e18d8770fc39abfafcc72ab6cd82629d6a
+fetchContent():
+Content successfully retrieved. IPFS address Qma4j56GHhzkax7GBTCTXuN5nMeAmaLau3No6hzTeKeWhG
+Content URL: http://localhost:8080/ipfs/Qma4j56GHhzkax7GBTCTXuN5nMeAmaLau3No6hzTeKeWhG
+
+
+
+
+test64:
+root: e01456d9f1c0cfacaee5c4f29ef0a795f480dada9a4aadc80645ecc127e68b58
+
+test256:
+root: e40951d40b23cfbaa671e484fa31a3d381296cd45c103d7cca7545da2b26c998
+
+test1024:
+root: fb84304ca71f66c9e3f9a5cfa132f44a4336dcfd19e01e1072b38f581b407bd8
